@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "minVersion": "0.8.5",
+  "package": "com.falsepattern.whitelistfixer.mixin.mixins",
+  "plugin": "com.falsepattern.whitelistfixer.mixin.plugin.MixinPlugin",
+  "refmap": "mixins.whitelistfixer.refmap.json",
+  "target": "@env(DEFAULT)",
+  "compatibilityLevel": "JAVA_8"
+}
+

@@ -1,0 +1,16 @@
+[
+    {
+      "modid": "${modId}",
+      "name": "${modName}",
+      "description": "Fixes the whitelist breaking due to recent mojang API changes.",
+      "version": "${modVersion}",
+      "mcversion": "${minecraftVersion}",
+      "url": "https://github.com/FalsePattern/WhitelistFixer",
+      "updateUrl": "",
+      "authorList": ["FalsePattern"],
+      "credits": "",
+      "logoFile": "",
+      "screenshots": [],
+      "dependencies": []
+    }
+]
